@@ -1,0 +1,39 @@
+.mainClass {
+    width: 75%;
+    height : 600px;
+    margin: auto;
+    padding : 10px;
+    box-shadow: 5px 5px 10px 5px #888888;
+}
+
+.leftBox {
+    float:left;  
+    width:35%; 
+    height: 100%;
+}
+.rightBox{ 
+    float:left; 
+    width:65%; 
+    height:100%
+  
+}
+.profileImage {
+    width :40%;
+    height: 55%;
+    display: block;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: auto;
+    border-radius: 20%;
+    
+}
+
+.progressBar {
+    padding : 10px;
+    margin-top : 10px;
+}
+
+p {
+    text-align: center;
+    padding: 5px;
+}

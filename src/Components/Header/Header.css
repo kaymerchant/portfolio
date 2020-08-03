@@ -1,0 +1,64 @@
+.combined-wrapper {
+    padding: 0;
+    background: linear-gradient(135deg, #329fff 1%, #8c00ff 100%);
+    height: 735px;
+    position: relative;
+    width: 100%;
+  }
+  .combined-reload {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+  }
+  .combined {
+    color: #fff;
+    width: 700px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  .combined-shape {
+    position: relative;
+  }
+  .combined-shape > * {
+    width: 60%;
+    height: 300px;
+    position: absolute;
+    overflow: hidden;
+  }
+  .combined-shape > * > * {
+    width: 100%;
+    height: 100%;
+    background: #fff;
+  }
+  .combined-shape .shape-left {
+    left: 0;
+  }
+  .combined-shape .shape-right {
+    right: 0;
+  }
+  .combined .title {
+    font-size: 80px;
+    letter-spacing: 8px;
+    position: absolute;
+    width: 600px;
+    text-align: center;
+    overflow: hidden;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .combined-bar {
+    width: 100%;
+    height: 7px;
+    background: #fff;
+    position: absolute;
+    top: 110px;
+  }
+  .combined .content {
+    font-size: 30px;
+    position: absolute;
+    top: 120px;
+  }
