@@ -3,6 +3,7 @@ import resumeData from "../../resumeData"
 import classes from './AboutMe.module.css'
 import {Progress} from 'reactstrap'
 
+
 const aboutMe = () => {
 
     let progressBar = Object.keys(resumeData.skills).map (skills => {
