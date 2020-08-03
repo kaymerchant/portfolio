@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5df75ba0.chunk.css",
+    "main.js": "/portfolio/static/js/main.045cbfde.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.045cbfde.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.ea4809af.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.ea4809af.js.map",
+    "static/css/2.14a18772.chunk.css": "/portfolio/static/css/2.14a18772.chunk.css",
+    "static/js/2.fcaecbb2.chunk.js": "/portfolio/static/js/2.fcaecbb2.chunk.js",
+    "static/js/2.fcaecbb2.chunk.js.map": "/portfolio/static/js/2.fcaecbb2.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.4d420384f49d3ddfded933ec452b08f0.js": "/portfolio/precache-manifest.4d420384f49d3ddfded933ec452b08f0.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.14a18772.chunk.css.map": "/portfolio/static/css/2.14a18772.chunk.css.map",
+    "static/css/main.5df75ba0.chunk.css.map": "/portfolio/static/css/main.5df75ba0.chunk.css.map",
+    "static/js/2.fcaecbb2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fcaecbb2.chunk.js.LICENSE.txt",
+    "static/media/communicator.PNG": "/portfolio/static/media/communicator.7801ea4c.PNG",
+    "static/media/creative.PNG": "/portfolio/static/media/creative.fd487e61.PNG",
+    "static/media/cupCakeLogo.png": "/portfolio/static/media/cupCakeLogo.97b9afa4.png",
+    "static/media/dataLogo.png": "/portfolio/static/media/dataLogo.13e44aba.png",
+    "static/media/gifLogo.png": "/portfolio/static/media/gifLogo.185d3909.png",
+    "static/media/learner.PNG": "/portfolio/static/media/learner.6c6850f5.PNG",
+    "static/media/logical.PNG": "/portfolio/static/media/logical.14a96049.PNG",
+    "static/media/problem solver.PNG": "/portfolio/static/media/problem solver.11fee9ea.PNG",
+    "static/media/profilePic.jpg": "/portfolio/static/media/profilePic.372cb958.jpg",
+    "static/media/readerLogo.png": "/portfolio/static/media/readerLogo.63db4491.png",
+    "static/media/sandwichLogo.png": "/portfolio/static/media/sandwichLogo.ae39e717.png",
+    "static/media/team player.PNG": "/portfolio/static/media/team player.f1eb6d14.PNG",
+    "static/media/tech.PNG": "/portfolio/static/media/tech.d8e36425.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea4809af.js",
+    "static/css/2.14a18772.chunk.css",
+    "static/js/2.fcaecbb2.chunk.js",
+    "static/css/main.5df75ba0.chunk.css",
+    "static/js/main.045cbfde.chunk.js"
+  ]
+}
