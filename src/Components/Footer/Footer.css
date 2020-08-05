@@ -2,14 +2,14 @@
     width: 100%;
     height : 200px;
     text-align: center;
-    font-size: larger;
+    font-size: 30px;
     background: linear-gradient(135deg, #329fff 1%, #8c00ff 100%);
     padding :10px;
     font-weight: bolder;
 }
 
 .icon {
-   width : 10%;
+   width : 5%;
    padding: 15px;
    display: inline-block
 }
